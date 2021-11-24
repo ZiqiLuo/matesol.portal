@@ -18,6 +18,10 @@ h3 {
   display: block;
 }
 
+.headline {
+  text-align: center;
+}
+
 .clearfix::after {
   content: "";
   display: block;
@@ -50,9 +54,9 @@ h3 {
 
 .navigator {
   text-align: center;
+  font-size: 18px;
   min-width: 999px;
   min-height: 56px;
-  text-decoration: none;
 }
 
 /* video label */
